@@ -1,5 +1,5 @@
 main: xyz.nagiasu.adventureplatformapi.BungeeMain
-name: adventureplatformapi
+name: AdventurePlatformApi
 version: ${project.version}
 author: MiunaPA
 api-version: 1.16

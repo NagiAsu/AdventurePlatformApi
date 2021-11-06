@@ -1,4 +1,4 @@
 main: xyz.nagiasu.adventureplatformapi.BungeeMain
-name: adventureplatformapi
+name: AdventurePlatformApi
 version: ${project.version}
 author: MiunaPA
