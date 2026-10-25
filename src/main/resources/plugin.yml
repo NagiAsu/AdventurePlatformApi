@@ -1,5 +1,0 @@
-main: xyz.nagiasu.adventureplatformapi.SpigotMain
-name: AdventurePlatformApi
-version: ${project.version}
-author: MiunaPA
-api-version: 1.16
